@@ -2,13 +2,12 @@
 title: "Homepage"
 author: "Sercan Kahveci"
 date: "`r format(Sys.time())`"
-theme: paper
 output: html_document
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="photo.jpg" style="width:25%; border:10px solid; border-color: blue; margin-right: 20px" align="left">
+<img src="photo.jpg" style="width:25%; border:5px solid; border-color: blue; margin-right: 20px" align="left">
 
 I am a PhD student in the lab of Jens Blechert as part of the Eating Behaviour Laboratory. I focus on the development and analysis of the Approach-Avoidance Task (AAT). 
 

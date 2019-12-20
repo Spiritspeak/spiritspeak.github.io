@@ -2,7 +2,6 @@
 title: "Publications"
 author: "Sercan Kahveci"
 date: "`r format(Sys.time())`"
-theme: paper
 output: html_document
 ---
 
