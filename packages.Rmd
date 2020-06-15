@@ -7,16 +7,13 @@ output:
     toc: true
 ---
 
-### **PAWR**: *The PushShift API Wrapper for R*
-
-(UNFINISHED) Allows you to easily scrape Reddit using the [pushshift.io API](https://pushshift.io/api-parameters). Install using `devtools::install_github("Spiritspeak/PAWR")`
-
-### **often**: *Schedule code to run periodically*
-
-(UNFINISHED) Allows you to schedule R code to run at regular intervals. Install using `devtools::install_github("Spiritspeak/often")`
-
 ### **AATtools**: *bootstrapped split-half reliability and scoring algorithms for the Approach-Avoidance Task*
 
 Computes bootstrapped split-half reliability for your entire analysis pipeline, accurately reflecting the reliability of your current results. You can customize how you want outliers to be removed, how you want errors to be treated, and how you want bias scores to be computed within each iteration. Also offers useful plotting options to see whether your reliability estimate was disproportionately influenced by a single participant. Bootstrapped bias scores can also be computed, allowing you to estimate confidence intervals for each participant's bias score. 
 
-Install using `devtools::install_github("Spiritspeak/AATtools")`
+[Available on CRAN](https://CRAN.R-project.org/package=AATtools) - Install using `install.packages("AATtools")`
+
+### **PAWR**: *The PushShift API Wrapper for R*
+
+(UNFINISHED) Allows you to easily scrape Reddit using the [pushshift.io API](https://pushshift.io/api-parameters). Install using `devtools::install_github("Spiritspeak/PAWR")`
+

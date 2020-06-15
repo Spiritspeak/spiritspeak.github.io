@@ -8,3 +8,4 @@ output: html_document
 # Published Articles
 
 Derks, K., Burger, J., van Doorn, J., Kossakowski, J. J., Matzke, D., Atticciati, L., … Wagenmakers, E.-J. (2018). Network Models to Organize a Dispersed Literature: The Case of Misunderstanding Analysis of Covariance. *Journal of European Psychology Students*, 9(1), 48–57. DOI: http://doi.org/10.5334/jeps.458
+
