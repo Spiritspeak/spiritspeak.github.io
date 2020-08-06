@@ -1,4 +1,4 @@
-baseurl = "https://spiritspeak.github.io"
+baseurl = "https://spiritspeak.github.io/blog/public/"
 title = "Sercan's test blog"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
