@@ -8,3 +8,56 @@
 .box-simple {
   min-height: 230px;
 }
+
+section.bar.background-gray.no-mb{
+  padding: 0px;
+}
+
+section.bar.background-pentagon.no-mb{
+  padding: 0px;
+}
+
+section{
+  margin: 0px;
+}
+
+p.lead{
+	font-size: 32px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.heading.text-center{
+	margin-bottom: 20px;
+}
+
+.testimonial.same-height-always{
+	height: auto !important;
+	vertical-align: center !important;
+}
+
+.testimonials .owl-item li.item{
+	height: 300px;
+}
+
+.testimonial div.text{
+	margin: 0px !important;
+}
+
+.dropdown a {
+	display: inline-block !important;
+	vertical-align: center;
+	height: 72px;
+}
+
+#copyright {
+	padding: 0px;
+}
+
+#footer{
+	background-image: url("./../img/footer.png");
+	background-repeat: repeat-x;
+	background-size: auto 260px;
+	background-position: center top;
+	background-color: #333333;
+}

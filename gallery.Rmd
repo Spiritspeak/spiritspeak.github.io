@@ -1,0 +1,23 @@
+---
+title: "Portfolio page?"
+author: "Sercan Kahveci"
+date: "06/08/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+library(slickR)
+```
+
+```{r}
+
+slickR(obj = nba_player_logo$uri,height = 100, width = "95%") + 
+  settings(dots = TRUE)
+
+```
+
+helo i am portfolio webpaige 
+```{r}
+print(getwd())
+```
