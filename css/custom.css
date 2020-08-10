@@ -64,8 +64,13 @@ p.lead{
 
 .owl-wrapper{
 	width: auto !important;
-	margin: auto;
-	left: auto;
+	margin: 0 auto !important;
+	text-align: center;
+	justify-content: center;
+	display: flex !important;
+}
+
+.owl-carousel .owl-item{
 }
 
 .img-responsive{
