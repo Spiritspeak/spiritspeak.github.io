@@ -68,17 +68,3 @@
 	background: url(AjaxLoader.gif) no-repeat center center
 }
 
-/* extras */
-.homepage.owl-carousel.owl-theme {
-	padding: 0px;
-}
-img.img-responsive {
-	margin: 0 auto;
-}
-.col-sm-5 {
-	width: 60%;
-	color: white;
-}
-.col-sm-7 {
-	width: 40%;
-}
