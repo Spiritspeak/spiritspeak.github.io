@@ -1,0 +1,29 @@
+---
+title: "AATtools"
+author: "Sercan Kahveci"
+date: "12/08/2020"
+output: html_document
+categories: ["Package"]
+tags: ["Package","rstats","reliability","implicit cognition","methodology"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+AATtools is an R package I wrote to be able to compute the reliability of the Approach-Avoidance task. 
+
+Install it this way:
+```{r install, eval=FALSE}
+install.packages("AATtools")
+```
+
+# Rationale
+
+Reliability scores are typically not computed for psychological tasks that produce a sum score. This has led to a literature full of inconsistent results and methodological decisions that have been guided by intuition rather than empirical decisionmaking. AATtools tries to solve these problems by providing multiple methods of computing the reliability of the AAT as well as other implicit psychological tasks. 
+Importantly, it enables researchers to compute the reliability of their entire data processing pipeline, giving a clear overview over how reliable the data are that have actually been used in the study's analyses and allowing researchers to explore the best ways to deal with outliers and error trials. 
+
+
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Package on Sercan`s Home page</title>
+    <link>/categories/package/</link>
+    <description>Recent content in Package on Sercan`s Home page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/categories/package/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AATtools</title>
+      <link>/packages/aattools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/aattools/</guid>
+      <description>IntroductionAATtools is an R package I wrote to be able to compute the reliability of the Approach-Avoidance task.
+Install it this way:
+install.packages(&amp;quot;AATtools&amp;quot;)RationaleReliability scores are typically not computed for psychological tasks that produce a sum score.</description>
+    </item>
+    
+  </channel>
+</rss>
