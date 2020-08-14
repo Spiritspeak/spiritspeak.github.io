@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>/publications/</loc>
-    <priority>0</priority>
+    <loc>/packages/aattools/</loc>
   </url>
   
   <url>
-    <loc>/packages/aattools/</loc>
+    <loc>/publications/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -65,35 +65,11 @@
   </url>
   
   <url>
-    <loc>/tags/implicit-cognition/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/methodology/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/package/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/package/</loc>
-  </url>
-  
-  <url>
     <loc>/packages/</loc>
   </url>
   
   <url>
     <loc>/gallery/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/reliability/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/rstats/</loc>
   </url>
   
 </urlset>

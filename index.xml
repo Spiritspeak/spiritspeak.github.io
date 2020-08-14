@@ -23,22 +23,22 @@
     
     <item>
       <title></title>
+      <link>/packages/aattools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/aattools/</guid>
+      <description>Introduction AATtools provides tools to deal with data from implicit psychological tasks. It provides methods to compute reliability and aggregate data into bias scores.
+Install it this way:
+install.packages(&amp;#34;AATtools&amp;#34;) Rationale Reliability scores are typically not computed for psychological tasks that produce a sum score.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
       <description>Publications  Kahveci, S., Meule, A., Lender, A., &amp;amp; Blechert, J. (2020). Food approach bias is moderated by the desire to eat specific foods. Appetite, 104758. https://doi.org/10.1016/j.appet.2020.104758 Derks, K., Burger, J., van Doorn, J., Kossakowski, J. J., Matzke, D., Atticciati, L.</description>
-    </item>
-    
-    <item>
-      <title>AATtools</title>
-      <link>/packages/aattools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/packages/aattools/</guid>
-      <description>IntroductionAATtools is an R package I wrote to be able to compute the reliability of the Approach-Avoidance task.
-Install it this way:
-install.packages(&amp;quot;AATtools&amp;quot;)RationaleReliability scores are typically not computed for psychological tasks that produce a sum score.</description>
     </item>
     
     <item>
